@@ -12,4 +12,4 @@ This endpoint handles chunked file uploads with several security measures to hel
 - **Virus Scanning:** Files are scanned for malware before being permanently stored.
 
 Note: upload flow can be changed like you see fit but implement those checks accordingly.
-This simple, yet robust approach helps ensure that your file uploads are as secure as possible but not immune to attacks , stay stafe.
+This simple, yet robust approach helps ensure that your file uploads are as secure as possible but not immune to attacks , stay safe.
